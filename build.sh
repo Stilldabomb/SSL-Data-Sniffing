@@ -1,0 +1,1 @@
+xcrun -sdk iphoneos clang -dynamiclib -arch arm64 -arch armv7 inject.m ./libsubstrate_arm.dylib /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/System/Library/Frameworks/Foundation.framework/Foundation.tbd -o sslhook.dylib
