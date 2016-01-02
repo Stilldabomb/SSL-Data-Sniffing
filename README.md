@@ -8,6 +8,3 @@ Install the dylib and plist to /Library/MobileSubstrate/DynamicLibraries or use 
 `HBLogDebug(...)` and helping with building - [Adam Demasi](https://twitter.com/hbkirb) ([his theos](https://github.com/kirb/theos))
 
 Helping with C hooking - [Thomas Finch](https://twitter.com/tomf64)
-
-### TODO
-* Go home, get testing device, grab iCloud password output and add parsing of that to the tweak.
